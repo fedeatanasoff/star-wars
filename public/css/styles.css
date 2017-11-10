@@ -58,7 +58,17 @@ Hero Image / Title Styles
 }
 
 
+/*-------- link---------*/
+.link{
+	text-decoration: none;
+	color: yellow;
+}
 
+.link:hover{
+	text-decoration: none;
+	color: yellow;
+	font-weight: 700;
+}
 
 
 /* ---------------------------------------
